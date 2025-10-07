@@ -39,9 +39,4 @@ If you encounter port issues, refer to the [troubleshooting guide](https://www.a
 ## Deployment
 
 To deploy your code to Astronomer, follow the [deployment documentation](https://www.astronomer.io/docs/astro/deploy-code/).
-
-## Feedback
-
-Have suggestions or want to see other Data Engineering topics? Drop your ideas in the comments!
-
 ---
